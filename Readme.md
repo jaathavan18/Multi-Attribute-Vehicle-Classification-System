@@ -37,6 +37,7 @@ Automated vehicle detection, tracking, and classification system that identifies
 2. Licence_Plate_Detection.ipynb --> Dataset can be downloaded in notebook
 3. Vehicle_Color_Recognition.ipynb --> Can be found in: [Kaggle](https://www.kaggle.com/datasets/landrykezebou/vcor-vehicle-color-recognition-dataset)
 4. Test Video: [Here](https://www.pexels.com/video/traffic-flow-in-the-highway-2103099/)
+5. Sample Ouput Video: [Youtube](https://youtu.be/qKxwxCQBhdk)
 ---
 
 # Technical Documentation
